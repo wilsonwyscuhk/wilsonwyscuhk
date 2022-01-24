@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wilson Wong @wilsonwyscuhk.
 - 👀 I’m interested in clinical informatics.
-- 🌱 I’m currently learning a wide range of topics from mathematics to physics to chemistry to biology to computer science to economics to finance to geosciences.
-- 💞️ I’m looking to collaborate on developing techniques in clinical informatics.
+- 🌱 I’m currently learning a wide range of topics from mathematics to physics to chemistry to biology to computer science to economics to finance to geosciences. I basically update my medical knowledge from time to time.
+- 💞️ I’m looking to collaborate on developing new techniques in clinical informatics.
 - 📫 How to reach me: wilsonwys@yahoo.com.hk
 
 <!---
